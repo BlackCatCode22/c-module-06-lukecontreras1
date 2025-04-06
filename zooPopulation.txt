@@ -1,0 +1,18 @@
+bear Habitat:
+BE01; Scar, Mufasa, Simba, Kiara, King, Drooper, Kimba, Nala, Leo, Samson, Elsa, Cecil; birth date 2022-12-15; brown color; male; 500 pounds; from Yellowstone; arrived 2024-03-05
+BE02; Tiger names:; birth date 2017-09-15; black color; male; 600 pounds; from Canadian Forest; arrived 2024-03-05
+
+hyena Habitat:
+HY01; Hyena Names:; birth date 2020-03-15; tan color; female; 70 pounds; from Friguia Park; arrived 2024-03-05
+HY02; Bear Names:; birth date 2018-06-15; spotted color; female; 75 pounds; from Serengeti; arrived 2024-03-05
+HY03; Tony, Tigger, Amber, Cosimia, Cuddles, Dave, Jiba, Rajah, Rayas, Ryker; birth date 2022-12-15; grey color; female; 65 pounds; from Masai Mara; arrived 2024-03-05
+
+lion Habitat:
+LI01; Shenzi, Banzai, Ed, Zig, Bud, Lou, Kamari, Wema, Nne, Madoa, Prince Nevarah; birth date 2021-06-15; golden color; male; 420 pounds; from Nairobi Zoo; arrived 2024-03-05
+LI02; Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles,; birth date 2020-03-15; tawny color; male; 410 pounds; from Big Cat Sanctuary; arrived 2024-03-05
+LI03; Hyena Names:; birth date 2019-09-15; sandy color; male; 430 pounds; from Kruger National Park; arrived 2024-03-05
+
+tiger Habitat:
+TI01; Lion Names:; birth date 2019-09-15; orange color; female; 300 pounds; from Siberian Reserve; arrived 2024-03-05
+TI02; Bert; birth date 2021-03-15; white color; female; 320 pounds; from Bengal; arrived 2024-03-05
+

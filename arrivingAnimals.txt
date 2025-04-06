@@ -1,0 +1,11 @@
+4 year old female hyena, born in spring, tan color, 70 pounds, from Friguia Park, Tunisia
+3 year old male lion, born in summer, golden color, 420 pounds, from Nairobi Zoo, Kenya
+5 year old female tiger, born in fall, orange color, 300 pounds, from Siberian Reserve, Russia
+2 year old male bear, born in winter, brown color, 500 pounds, from Yellowstone, USA
+6 year old female hyena, born in summer, spotted color, 75 pounds, from Serengeti, Tanzania
+4 year old male lion, born in spring, tawny color, 410 pounds, from Big Cat Sanctuary, India
+3 year old female tiger, born in spring, white color, 320 pounds, from Bengal, India
+7 year old male bear, born in fall, black color, 600 pounds, from Canadian Forest, Canada
+2 year old female hyena, born in winter, grey color, 65 pounds, from Masai Mara, Kenya
+5 year old male lion, born in fall, sandy color, 430 pounds, from Kruger National Park, South Africa
+
